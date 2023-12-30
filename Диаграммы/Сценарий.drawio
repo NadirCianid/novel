@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-30T18:54:25.932Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0 (Edition Yx GX)" etag="qJIWr-aCb_S_cGSzGuUd" version="22.1.16" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-30T19:23:30.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0 (Edition Yx GX)" etag="HmZLpBYQ6m-WkGiLtaL7" version="22.1.16" type="github" pages="2">
   <diagram name="Вторая сцена (+ первая кратко)" id="WSzIT1wg780pOvyzYUsP">
     <mxGraphModel dx="4036" dy="2168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -217,7 +217,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HPw1nXpF1SWndCB25VcU" name="Третья сцена">
-    <mxGraphModel dx="1009" dy="1369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2883" dy="1549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -225,31 +225,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fUCi5_lyzW6-FPhT3z4B-1" value="Начало" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="120" height="80" as="geometry" />
+          <mxGeometry x="40" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2XKaPpfBlDfcasnLo-Df-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2XKaPpfBlDfcasnLo-Df-1" target="2XKaPpfBlDfcasnLo-Df-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2XKaPpfBlDfcasnLo-Df-1" value="Кей: Твою комнату уже подготовили. Это Лена она будет помогать тебе с повседневными делами. А это Валтор - глава стражи замка он отвечает за твою безопасность" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="40" width="120" height="160" as="geometry" />
+          <mxGeometry x="200" y="160" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="2XKaPpfBlDfcasnLo-Df-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2XKaPpfBlDfcasnLo-Df-3" target="2XKaPpfBlDfcasnLo-Df-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2XKaPpfBlDfcasnLo-Df-3" value="Валтор: А, призваннная..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2XKaPpfBlDfcasnLo-Df-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2XKaPpfBlDfcasnLo-Df-5" target="2XKaPpfBlDfcasnLo-Df-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2XKaPpfBlDfcasnLo-Df-5" value="Кей: Валтор, по вежлевей с нашей гостьей." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2XKaPpfBlDfcasnLo-Df-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="2XKaPpfBlDfcasnLo-Df-7" target="2XKaPpfBlDfcasnLo-Df-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2XKaPpfBlDfcasnLo-Df-7" value="Валтор: Она здесь не нужна. Королевская армия сама бы справилась с любой задачей." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="130" width="120" height="80" as="geometry" />
+          <mxGeometry x="520" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2XKaPpfBlDfcasnLo-Df-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2XKaPpfBlDfcasnLo-Df-9" target="2XKaPpfBlDfcasnLo-Df-11">
           <mxGeometry relative="1" as="geometry" />
@@ -258,22 +258,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2XKaPpfBlDfcasnLo-Df-9" value="Кей: S.t не бери близко к сердцу, в глубине души он хороший. Очень глубоко... наверно... В любом случае Валтор, это прямой прямой приказ короля нравиться тебе или нет." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="50" width="120" height="160" as="geometry" />
+          <mxGeometry x="680" y="170" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="2XKaPpfBlDfcasnLo-Df-11" value="Валтор: Пф..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2XKaPpfBlDfcasnLo-Df-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2XKaPpfBlDfcasnLo-Df-13" target="2XKaPpfBlDfcasnLo-Df-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2XKaPpfBlDfcasnLo-Df-13" value="Лена: Пойдёмте госпожа, я покажу где ваши покои." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2XKaPpfBlDfcasnLo-Df-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2XKaPpfBlDfcasnLo-Df-15" target="2XKaPpfBlDfcasnLo-Df-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2XKaPpfBlDfcasnLo-Df-15" value="Лена: Вот ваша комната. Я принесу ужин через час, вы можете пока отдохнуть. Вам нужно что-нибудь ещё?&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="65" width="120" height="130" as="geometry" />
+          <mxGeometry x="1000" y="185" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="2XKaPpfBlDfcasnLo-Df-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2XKaPpfBlDfcasnLo-Df-17" target="2XKaPpfBlDfcasnLo-Df-22">
           <mxGeometry relative="1" as="geometry" />
@@ -284,10 +284,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2XKaPpfBlDfcasnLo-Df-17" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="110" width="40" height="40" as="geometry" />
+          <mxGeometry x="1160" y="230" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2XKaPpfBlDfcasnLo-Df-19" value="хорошо.*уходит*" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="1130" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2XKaPpfBlDfcasnLo-Df-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.413;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2XKaPpfBlDfcasnLo-Df-17" target="2XKaPpfBlDfcasnLo-Df-19">
           <mxGeometry relative="1" as="geometry" />
@@ -301,7 +301,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2XKaPpfBlDfcasnLo-Df-22" value="Что вы хотели узнать?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="1280" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MAwCeHMcdVnOHqFwDSHp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MAwCeHMcdVnOHqFwDSHp-1" target="MAwCeHMcdVnOHqFwDSHp-3">
           <mxGeometry relative="1" as="geometry" />
@@ -328,16 +328,62 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MAwCeHMcdVnOHqFwDSHp-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="110" width="40" height="40" as="geometry" />
+          <mxGeometry x="1440" y="230" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MAwCeHMcdVnOHqFwDSHp-3" value="Как вам наверняка рассказал Кей-это государство Твикс.&amp;nbsp; Вы находитесь в королевском замке в столице Крамел.( прим.1 читается Крамэл можно так и написать, прим. 2 потому что похоже на карамель, если придумаешь что-то лучше можешь изменить, а может я потом придумаю)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="65" width="230" height="130" as="geometry" />
+          <mxGeometry x="1620" y="185" width="230" height="130" as="geometry" />
         </mxCell>
         <mxCell id="MAwCeHMcdVnOHqFwDSHp-6" value="&amp;nbsp;Я не знаю почему призвали имеено вас. Сомневаюсь что вообще можно призвать кого-то конкретного. Но об этом вы сможете подробнее&amp;nbsp; спросить у Мириан." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="220" width="120" height="140" as="geometry" />
+          <mxGeometry x="1400" y="340" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="MAwCeHMcdVnOHqFwDSHp-10" value="Я не знаю. По замку ходят слухи, что именно&amp;nbsp; вы можете разгадать секреты Тайных земель и найти там некий &quot;источник силы&quot;. Более мне ничего не известно." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1355" y="-30" width="210" height="95" as="geometry" />
+          <mxGeometry x="1355" y="90" width="210" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="MAwCeHMcdVnOHqFwDSHp-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MAwCeHMcdVnOHqFwDSHp-13" target="MAwCeHMcdVnOHqFwDSHp-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MAwCeHMcdVnOHqFwDSHp-16" value="Вопросов больше&lt;br&gt;не имею" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MAwCeHMcdVnOHqFwDSHp-15">
+          <mxGeometry x="-0.0514" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MAwCeHMcdVnOHqFwDSHp-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="90" width="570" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="MAwCeHMcdVnOHqFwDSHp-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MAwCeHMcdVnOHqFwDSHp-14" target="MAwCeHMcdVnOHqFwDSHp-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MAwCeHMcdVnOHqFwDSHp-14" value="Хорошо. Отдыхайте. Я вернусь через час.*уходит*" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MAwCeHMcdVnOHqFwDSHp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MAwCeHMcdVnOHqFwDSHp-17" target="MAwCeHMcdVnOHqFwDSHp-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MAwCeHMcdVnOHqFwDSHp-21" value="* Стук в дверь*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MAwCeHMcdVnOHqFwDSHp-20">
+          <mxGeometry x="0.08" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MAwCeHMcdVnOHqFwDSHp-17" value="&lt;div&gt;S.t ложится на кровать, мысли:&lt;/div&gt;&lt;div&gt;Что происходит? Неужели это все реальность? Может надо себя ущепнуть? Точно, я просто слишком много просидела за учебниками... Наверняка скоро я проснусь... и окажусь ... дома...&amp;nbsp; *Заснула*&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="350" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MAwCeHMcdVnOHqFwDSHp-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MAwCeHMcdVnOHqFwDSHp-19" target="MAwCeHMcdVnOHqFwDSHp-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MAwCeHMcdVnOHqFwDSHp-19" value="Лена: Госпожа, я принесла ужин." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MAwCeHMcdVnOHqFwDSHp-23" value="S.t : Входи." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MAwCeHMcdVnOHqFwDSHp-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MAwCeHMcdVnOHqFwDSHp-25" target="MAwCeHMcdVnOHqFwDSHp-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MAwCeHMcdVnOHqFwDSHp-25" value="Лена: Ой вы уже спали. Поешьте и ложитесь обратно, сегодня был тяжёлый день." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="530" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MAwCeHMcdVnOHqFwDSHp-26" value="Конец сцены" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="520" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
