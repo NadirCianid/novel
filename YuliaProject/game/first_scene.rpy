@@ -6,7 +6,7 @@ image working_table_usual = "monitor_off.png"
 image working_table_strange = "monitor_strange.png"
 image white_screen = "white_screen.png"
 
-image key = "keya happy.png"
+image key happy = "keya happy.png"
 
 label intro:
     scene working_table_usual
@@ -41,6 +41,8 @@ label intro:
     return
 
 label back_to_reality:
+    stop music
+
     scene working_table_usual
     with dissolve
 
@@ -54,13 +56,13 @@ label back_to_reality:
 
     gg "Ну и ну! В следующий раз не буду засиживаться допоздна."
 
+    jump game_over
     return
 
 label into_the_magic:
     scene working_table_strange
-    play music "magic_begins.mp3"
 
-    show key at left
+    show key happy at left
 
     gg "ЭТО ТЫ????"
 
@@ -79,5 +81,5 @@ label into_the_magic:
     gg "Чтоооооо? Подожди!"
 
     
-    jump back_to_reality
+    jump appearance_in_new_world
     return

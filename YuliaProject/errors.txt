@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/first_scene.rpy", line 70: end of line expected.
-    gg "Чтоооооо? Подожди!":
-                           ^
+File "game/second_scene.rpy", line 5: invalid syntax
+    Character("Лилия", what size = 20, who_color = "#0E7624")
+                             ^
 
 Ren'Py Version: Ren'Py 8.1.4.23121702+nightly
-Thu Dec 28 17:54:29 2023
+Sat Dec 30 19:30:22 2023
