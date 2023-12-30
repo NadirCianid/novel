@@ -1,4 +1,4 @@
-define k = Character("Кейа", what_size=20, who_color="#070b9c")
+define k = Character("Кей", what_size=20, who_color="#070b9c")
 define n = Character("Таинственный голос", what_size=20, who_color="#F0ed2c")
 define gg = Character("Юля", what_size = 20, who_color="#0b86f6")
 
@@ -6,7 +6,7 @@ image working_table_usual = "monitor_off.png"
 image working_table_strange = "monitor_strange.png"
 image white_screen = "white_screen.png"
 
-image keya = "keya happy.png"
+image key = "keya happy.png"
 
 label intro:
     scene working_table_usual
@@ -48,11 +48,11 @@ label back_to_reality:
 
     gg "Я действительно заснула!"
 
-    "Это неудевительно при такой нагрузке."
+    "Это не удивительно при такой нагрузке."
 
     gg "Пора ложиться спать. Но на этот раз в кровать."
 
-    gg "Ну и ну! В следующий раз не буду засиживаться до поздна."
+    gg "Ну и ну! В следующий раз не буду засиживаться допоздна."
 
     return
 
@@ -60,17 +60,24 @@ label into_the_magic:
     scene working_table_strange
     play music "magic_begins.mp3"
 
-    show keya at left
+    show key at left
 
     gg "ЭТО ТЫ????"
 
 
-    k "Да это я)"
+    k "Пока мы не знакомы, но скоро все изменится."
 
-    gg "Но, как? Ты же персонаж посредственной игры!"
+    gg "О чем ты?"
 
-    k "Ты пока не готова к приключению. Прощай!"
+    k "Скоро увидимся)"
+
+    "\" Происходит резкая вспышка света\""
+    scene white_screen
+
+    "..."
 
     gg "Чтоооооо? Подожди!"
+
+    
     jump back_to_reality
     return
